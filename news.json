@@ -1,0 +1,9 @@
+{
+	"posts": [
+		{
+			"id": 1,
+			"title": "Experience UI Pro",
+			"text": "Added signal and WiFi indicators on status bar"
+		}
+	]
+}
